@@ -26,13 +26,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Project Associate"
   location         : "Kolkata, India"
-  employer         : "Indian Association for the Cultivation of Science"
+  employer         : # 
   uri              : # URL
   email            : "b.sumon@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://bit.ly/sumongs"
+  googlescholar    : #
   impactstory      : # URL
   orcid            : "https://bit.ly/sumonorcid"
   pubmed           : #
