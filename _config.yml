@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://bit.ly/sumonorcid"
   pubmed           : #
-  researchgate     : #
+  researchgate     : "https://bit.ly/sumonrg"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
